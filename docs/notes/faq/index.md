@@ -1,2 +1,0 @@
-# ratch-job faq
-
